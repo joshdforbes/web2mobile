@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"obj",
+				"objMax  (variable)"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"docu",
+				"document"
+			],
+			[
+				"t",
+				"test"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"snipp",
+				"Snippet: Object Value JS"
+			],
+			[
+				"snip",
+				"Snippet: if"
+			],
+			[
+				"snippet",
+				"Snippet: Function"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sy java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synta",
+				"Set Syntax: Groovy"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 370.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Josh/www/web2Mobile/web2mobile.html",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/C/Users/Josh/Desktop/test.js",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Josh/www/dynamicquiz/index.html",
+		"/C/Users/Josh/www/jquery/lesson27/searchTwitter.jquery.js",
+		"/C/Users/Josh/www/dynamicquiz/scripts/main.js",
+		"/C/Users/Josh/www/oojs/exercise01/toolbar.js",
+		"/C/Users/Josh/www/dynamicquiz/scripts/questions.json",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Josh/www/nflPicker/script.js",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Josh/Desktop/lesson-26/views/index.tmpl.php",
+		"/C/Users/Josh/Desktop/lesson-26/index.php",
+		"/C/Users/Josh/Desktop/lesson-26/js/scripts.js",
+		"/C/Users/Josh/Desktop/lesson-26/_partials/header.php",
+		"/C/Users/Josh/Desktop/lesson-26/_partials/footer.php",
+		"/C/Users/Josh/Desktop/lesson-8/index.html",
+		"/C/Users/Josh/Desktop/lesson-14/slider.js",
+		"/C/Users/Josh/www/jquery/lesson23/save.php",
+		"/C/Users/Josh/Desktop/WebsiteChangeRequestForm/index.php",
+		"/C/Users/Josh/Desktop/Lesson19/script.js",
+		"/C/Users/Josh/Desktop/Lesson19/eventUtility.js",
+		"/C/Users/Josh/Desktop/Lesson19/index.html",
+		"/C/Users/Josh/Desktop/Lesson09/script.js",
+		"/C/Users/Josh/www/painterJS/painter.js",
+		"/C/java/WeightConverter/src/weightconverter/WeightConverter.java",
+		"/I/AB-Tech Courses/SEC 110/ipsec.txt",
+		"/C/Users/Josh/www/painterJS/sample.html",
+		"/C/Users/Josh/www/painterJS/sample.css",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/C/Users/Josh/WebstormProjects/dynamicquiz/main.js",
+		"/C/Users/Josh/Desktop/test.html",
+		"/C/Users/Josh/WebstormProjects/dynamicquiz/main.css",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Taco",
+			"tester",
+			"save",
+			"questionObjectArray",
+			"var",
+			"questionObjectArray",
+			"var",
+			"Question",
+			"question",
+			"var",
+			"questionObjectArray"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"m",
+				"/C/Users/Josh/WebstormProjects/dynamicquiz/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

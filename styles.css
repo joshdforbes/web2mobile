@@ -1,0 +1,106 @@
+#web2Mobile, #web2Mobile h2, #web2Mobile form,
+#web2Mobile label, #web2Mobile ol, #web2Mobile li,
+#web2Mobile select #web2Mobile button, #web2Mobile input,
+#web2Mobile span{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+
+#web2Mobile {
+    width: 300px;
+    height: 150px;
+    border: 1px solid #a2a2a2;
+    box-shadow: 2px 2px 4px #888888;
+    background: #fafafa;
+    margin: auto;
+    padding: 0px;
+    position:fixed;
+    top: 30%;
+    left: 30%;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 24px;
+    font-weight: bold;
+    color: #09C;
+    text-decoration: none;
+    border-radius: 10px;
+    z-index: 10000;
+}
+
+#web2Mobile h2 {
+    margin: 0px 0px 15px 0px;
+    padding: 5px;
+    font-size: 20px;
+    background: #5980d7;
+    color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+#web2Mobile span {
+    float: right;
+    font-size: 12px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+#web2Mobile ol, #web2Mobile li{
+    margin: 0px;
+    padding: 0px;
+    list-style:none;
+}
+
+#web2Mobile li{
+    clear:both;
+    list-style:none;
+    padding-bottom:10px;
+}
+
+#web2Mobile input, #web2Mobile select {
+    border: 1px solid #ccc;
+    -ms-box-sizing:content-box;
+    -moz-box-sizing:content-box;
+    box-sizing:content-box;
+    -webkit-box-sizing:content-box;
+}
+
+#web2Mobile input{
+    float:left;
+    width: 150px;
+}
+
+#web2Mobile select {
+    float: left;
+    width: 150px;
+}
+
+#web2Mobile label{
+    width:110px;
+    float:left;
+    text-align: right;
+    margin-right: 20px;
+}
+
+#web2Mobile button {
+    clear: both;
+    float: right;
+    margin-top: 5px;
+    margin-right: 20px;
+    background: #5980d7;
+    color: #ffffff;
+    width: 60px;
+    height: 30px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
